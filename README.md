@@ -122,8 +122,6 @@ Ver Projeto →
 
 </p>
 
-<img src="https://raw.githubusercontent.com/Brandoon001/Brandoon001/output/github-contribution-grid-snake-dark.svg">
-
 ---
 
 # 🌎 Contato
